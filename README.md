@@ -31,7 +31,7 @@ int main() {
 }
 ```
 <div id="badges">
-  <img src="https://komarev.com/ghpvc/?username=blodroed&style=for-the-badge&color=CACAAC&label=Glasses of Milk" alt="profile-visits"/>
+  <img src="https://komarev.com/ghpvc/?username=blodroed&style=for-the-badge&color=blueviolet&label=Glasses+of+Milk" alt="profile-visits"/>
   <a href="https://no.linkedin.com/in/albert-salvesen-oroe">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -45,6 +45,7 @@ int main() {
 <br>
 If you want to chat just contact me on the social channels provided! 📬
 
-### 🤘My spotify playlist🤘
-___
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1rHIqcrBWuOAPxGhBR22an?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+### 🤘My spotify playlist🤘 
+<a href="https://open.spotify.com/playlist/1rHIqcrBWuOAPxGhBR22an?si=dca92a2aa8cb40b1">
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
+</a>
