@@ -1,16 +1,50 @@
-## Hi there 👋
+## 🥛 Greetings From Cowspace 🥛
 
-<!--
-**Blodroed/Blodroed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```cpp
+enum class University {
+    UNIVERSITY_OF_AGDER
+};
 
-Here are some ideas to get you started:
+struct Student {
+    std::string name;
+    int born;
+    University university;
+    std::string field;
+    std::string about;
+};
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+int main() {
+    Student me {
+        "Albert Salvesen-Orø",
+        2003,
+        University::UNIVERSITY_OF_AGDER,
+        "Dataengineering/software dev",
+        "
+        Currently studying in UiA Grimstad since 2023, where i will get a 
+        bachelor in Dataengineering specializing in software development.
+        I am also a board member in the student organization BETA, which 
+        is for all computer science students at UiA. 
+        I am also really into music, especially the metal genre.
+        "
+    };
+    return 0;
+}
+```
+<div id="badges">
+  <img src="https://komarev.com/ghpvc/?username=blodroed&style=for-the-badge&color=CACAAC&label=Glasses of Milk" alt="profile-visits"/>
+  <a href="https://no.linkedin.com/in/albert-salvesen-oroe">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:alberts-o@outlook.com">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+  </a>
+  <a href="https://discordapp.com/users/147331017865297920">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+</div>
+<br>
+If you want to chat just contact me on the social channels provided! 📬
+
+### 🤘My spotify playlist🤘
+___
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1rHIqcrBWuOAPxGhBR22an?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
