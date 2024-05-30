@@ -31,7 +31,7 @@ int main() {
 }
 ```
 <div id="badges">
-  <img src="https://komarev.com/ghpvc/?username=blodroed&style=for-the-badge&color=FFEBCD&labelColor=000000&label=Glasses+of+Milk" alt="profile-visits"/>
+  <img src="https://komarev.com/ghpvc/?username=blodroed&style=for-the-badge&color=FFEBCD&text=000000&label=Glasses+of+Milk" alt="profile-visits"/>
   <a href="https://no.linkedin.com/in/albert-salvesen-oroe">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
