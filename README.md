@@ -49,4 +49,5 @@ If you want to chat just contact me on the social channels provided! 📬
 <a href="https://open.spotify.com/playlist/1rHIqcrBWuOAPxGhBR22an?si=dca92a2aa8cb40b1">
     <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
 </a>
+
 ![](https://hit.yhype.me/github/profile?user_id=56978955)
