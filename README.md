@@ -31,7 +31,7 @@ int main() {
 }
 ```
 <div id="badges">
-  <img src="https://komarev.com/ghpvc/?username=blodroed&style=for-the-badge&color=FFEBCD&text=000000&label=Glasses+of+Milk" alt="profile-visits"/>
+  <img src="https://komarev.com/ghpvc/?username=blodroed&style=for-the-badge&color=ffa600&label=Glasses+of+Milk" alt="profile-visits"/>
   <a href="https://no.linkedin.com/in/albert-salvesen-oroe">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -49,3 +49,4 @@ If you want to chat just contact me on the social channels provided! 📬
 <a href="https://open.spotify.com/playlist/1rHIqcrBWuOAPxGhBR22an?si=dca92a2aa8cb40b1">
     <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
 </a>
+![](https://hit.yhype.me/github/profile?user_id=56978955)
