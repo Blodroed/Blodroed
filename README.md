@@ -47,7 +47,12 @@ If you want to chat just contact me on the social channels provided! 📬
 
 <br><br>
 ## Stats and Tech Stack 🖥️
-![Blodroed's GitHub stats](https://github-readme-stats.vercel.app/api?username=blodroed&show_icons=true&theme=radical)
+<a href="https://github.com/blodroed">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=blodroed&show_icons=true&theme=radical" alt="Blodroed's GitHub stats" />
+</a>
+<a href="https://github.com/blodroed">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=blodroed&layout=compact&card_width=320&theme=radical&size_weight=0.6&count_weight=0.4" alt="Top Languages" />
+</a>
 
 <div >
 	<img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" alt="C" title="C"/>
